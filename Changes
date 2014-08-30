@@ -1,5 +1,8 @@
 Revision history for Dancer2-Plugin-Emailesque
 
+0.03    Sat Aug 30 15:52:53 WEST 2014
+        - Added CPAN metadata.
+
 0.02    Tue Jul 23 16:48:44 WEST 2013
         - Now with proper Changes file
         - Now with proper README file
